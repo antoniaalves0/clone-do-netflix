@@ -1,0 +1,1 @@
+Neste repositório fiz um projeto do bootcamp WEB DEVELOPER da plataforma DIO, recriei a página inicial da Netflix ultilizando Html, Css, um pouco de JavaScript e Jquery. 

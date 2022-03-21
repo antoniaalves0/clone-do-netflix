@@ -1,0 +1,17 @@
+@media screen and(max-width:700px) { /* ate 700px eu vou aplicar a formataçao que vou fazer aqui */
+    header .container{
+        display: flex; 
+        flex-direction: column; /* quando a tela for ate 700px ele vai jogar para baixo*/
+    }
+
+    .botao{
+        margin-top: 5px;
+        width: 300px;
+    }
+}
+
+@media screen and(max-width:1000px) {
+    .sinopse{
+        width:50% ;
+    }
+}
